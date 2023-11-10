@@ -4,6 +4,7 @@ This Python script records keystrokes, system details, clipboard contents, takes
 Requirements:
 
 Python 3.x
+
 Libraries: email, smtplib, socket, platform, win32clipboard, pynput, time, os, scipy, sounddevice, PIL, cryptography, getpass, requests
 
 Setup:
