@@ -1,5 +1,7 @@
 # Advanced-Keystroke-Monitor
-This Python script records keystrokes, system details, clipboard contents, takes screenshots, and captures audio for educational purposes. Please note that using this script without permission is illegal. Ensure you have explicit consent before use.
+This Python script records keystrokes, system details, clipboard contents, takes screenshots, and captures audio for educational purposes. Please note that using this script without permission is illegal. 
+
+Ensure you have explicit consent before use.
 
 Requirements:
 
