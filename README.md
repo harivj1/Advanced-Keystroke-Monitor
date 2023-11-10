@@ -14,7 +14,7 @@ Run keylogger.py responsibly with legal permission.
 Important
 
 For educational use only.
-Respect others' privacy; don't misuse.
+Respect others' privacy; don't misuse it.
 Ensure legal consent before usage.
 Encrypting and storing data without consent is illegal.
 Using this script means you agree to these terms
